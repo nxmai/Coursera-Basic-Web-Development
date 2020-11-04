@@ -1,5 +1,5 @@
 #header-nav {
-  background-color: #999999;
+  background-color: #bbbbbb;
   border-radius: 0;
   border: 0;
 }
@@ -9,6 +9,10 @@
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
+}
+
+h4{
+	color: black;
 }
 
 h1{
@@ -22,9 +26,10 @@ h2{
 
 p{
 	padding: 20px;
+	text-align: justify;
 }
 
 .section {
-	background: #999999;
+	background: #bbbbbb;
 
 }
